@@ -96,3 +96,24 @@ a{
 .third-section strong{
     text-align: end;
 }
+
+.fourth-section{
+    padding: 40px;
+}
+
+.dialog{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    border-radius: 16px;
+    color: white;
+    padding: 16px 32px;
+}
+
+.dialog button{
+    color: white;
+    background-color: #3882f6;
+    border: white solid 4px;
+    padding: 4px 8px;
+    border-radius: 8px;
+}
