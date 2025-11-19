@@ -75,3 +75,24 @@ a{
 .service-card p{
     text-align: center;
 }
+
+.third-section{
+    background-color: #e5e7eb;
+    padding: 16px;
+}
+
+.third-section div{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: auto;
+}
+
+.third-section p{
+    color: #1f2937;
+    font-size: 36px;
+}
+
+.third-section strong{
+    text-align: end;
+}
